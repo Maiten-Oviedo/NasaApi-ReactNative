@@ -23,6 +23,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "260e20db-2d0d-4135-ab62-40b02e6c164d"
+      }
+    },
+    "owner": "maiten",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/260e20db-2d0d-4135-ab62-40b02e6c164d"
     }
   }
 }
